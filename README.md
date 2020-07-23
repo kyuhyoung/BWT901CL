@@ -8,9 +8,10 @@ WITMOTION Turotial File
 Package version: 2020.07.20
 Release date:    2020-07-20
 
-This package contains all neccessary file for set-up of the sensor. 
+This package contains all necessary files for set-up of the sensor.
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
@@ -22,7 +23,7 @@ Google Drive:
 https://drive.google.com/drive/folders/1I6sBC-8Q3_vtY-GrFDZbWJZJFk7UnNfO
 
 -----------
-Youtube Channael: 
+Youtube Channel: 
 https://www.youtube.com/c/WITMOTION
 
 BWT901CL Playlist: 
